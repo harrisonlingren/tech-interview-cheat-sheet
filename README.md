@@ -1,4 +1,4 @@
-## Studying for a technical interview sucks, so here's a cheat sheet to Help
+## Studying for a technical interview sucks, so here's a cheat sheet to help
 
 _Credit to [TSiege](https://github.com/TSiege) for the original Gist, [found here](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)_ 
 

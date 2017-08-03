@@ -56,7 +56,7 @@ This list is meant to be a both a quick guide and reference for further research
     + [Definition:](#definition-10)
     + [What you need to know:](#what-you-need-to-know-10)
     + [Recursion Vs. Iteration](#recursion-vs-iteration)
-    + [Pseudo Code of Moving Through an Array (this is why iteration is used for this)](#pseudo-code-of-moving-through-an-array-this-is-why-iteration-is-used-for-this-)
+    + [Pseudo Code of Moving Through an Array (this is why iteration is used for this)](#pseudo-code-of-moving-through-an-array-this-is-why-iteration-is-used-for-this)
   * [Greedy Algorithm](#greedy-algorithm)
     + [Definition:](#definition-11)
     + [What you need to know:](#what-you-need-to-know-11)

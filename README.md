@@ -1,8 +1,66 @@
-## Studying for a technical interview sucks, so here's a cheat sheet to help
+# Technical Interview Cheat Sheet
+_**Studying for a technical interview sucks, so here's a cheat sheet to help**_
 
 _Credit to [TSiege](https://github.com/TSiege) for the original Gist, [found here](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)_ 
 
 This list is meant to be a both a quick guide and reference for further research into these topics.  It's basically a summary of that comp sci course you never took or forgot about, so there's no way it can cover everything in depth.
+
+## Table of Contents
+- [Data Structure Basics](#data-structure-basics)
+  * [Array](#array)
+    + [Definition:](#definition-)
+    + [What you need to know:](#what-you-need-to-know-)
+    + [Big O efficiency:](#big-o-efficiency-)
+  * [Linked List](#linked-list)
+    + [Definition:](#definition--1)
+    + [What you need to know:](#what-you-need-to-know--1)
+    + [Big O efficiency:](#big-o-efficiency--1)
+  * [Hash Table or Hash Map](#hash-table-or-hash-map)
+    + [Definition:](#definition--2)
+    + [What you need to know:](#what-you-need-to-know--2)
+    + [Big O efficiency:](#big-o-efficiency--2)
+  * [Binary Tree](#binary-tree)
+    + [Definition:](#definition--3)
+    + [What you need to know:](#what-you-need-to-know--3)
+    + [Big O efficiency:](#big-o-efficiency--3)
+- [Search Basics](#search-basics)
+  * [Breadth First Search](#breadth-first-search)
+    + [Definition:](#definition--4)
+    + [What you need to know:](#what-you-need-to-know--4)
+    + [Big O efficiency:](#big-o-efficiency--4)
+  * [Depth First Search](#depth-first-search)
+    + [Definition:](#definition--5)
+    + [What you need to know:](#what-you-need-to-know--5)
+    + [Big O efficiency:](#big-o-efficiency--5)
+    + [Breadth First Search Vs. Depth First Search](#breadth-first-search-vs-depth-first-search)
+    + [Nuances:](#nuances-)
+- [Efficient Sorting Basics](#efficient-sorting-basics)
+  * [Merge Sort](#merge-sort)
+    + [Definition:](#definition--6)
+    + [What you need to know:](#what-you-need-to-know--6)
+    + [Big O efficiency:](#big-o-efficiency--6)
+  * [Quicksort](#quicksort)
+    + [Definition:](#definition--7)
+    + [What you need to know:](#what-you-need-to-know--7)
+    + [Big O efficiency:](#big-o-efficiency--7)
+  * [Bubble Sort](#bubble-sort)
+    + [Definition:](#definition--8)
+    + [What you need to know:](#what-you-need-to-know--8)
+    + [Big O efficiency:](#big-o-efficiency--8)
+    + [Merge Sort Vs. Quicksort](#merge-sort-vs-quicksort)
+- [Basic Types of Algorithms](#basic-types-of-algorithms)
+  * [Recursive Algorithms](#recursive-algorithms)
+    + [Definition:](#definition--9)
+    + [What you need to know:](#what-you-need-to-know--9)
+  * [Iterative Algorithms](#iterative-algorithms)
+    + [Definition:](#definition--10)
+    + [What you need to know:](#what-you-need-to-know--10)
+    + [Recursion Vs. Iteration](#recursion-vs-iteration)
+    + [Pseudo Code of Moving Through an Array (this is why iteration is used for this)](#pseudo-code-of-moving-through-an-array--this-is-why-iteration-is-used-for-this-)
+  * [Greedy Algorithm](#greedy-algorithm)
+    + [Definition:](#definition--11)
+    + [What you need to know:](#what-you-need-to-know--11)
+    + [Pseudo Code of a Greedy Algorithm to Find Largest Difference of any Two Numbers in an Array.](#pseudo-code-of-a-greedy-algorithm-to-find-largest-difference-of-any-two-numbers-in-an-array)
 
 ## Data Structure Basics
 

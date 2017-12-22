@@ -217,7 +217,7 @@ This list is meant to be a both a quick guide and reference for further research
 - Know that it divides all the data into as small possible sets then compares them.
 
 #### Big O efficiency:
-- Best Case Sort: Merge Sort: O(n)
+- Best Case Sort: Merge Sort: O(n log n)
 - Average Case Sort: Merge Sort: O(n log n)
 - Worst Case Sort: Merge Sort: O(n log n)
 
